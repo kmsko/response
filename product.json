@@ -1,6 +1,50 @@
 [
     {
-        "name": "max",
-        "lastName": "kot"
+        "id_product": 1,
+        "product_name": "Ноутбук",
+        "price": 45600,
+        "image": "https://img.mvideo.ru/Pdb/30054629b.jpg"
+    },
+    {
+        "id_product": 2,
+        "product_name": "Мышка",
+        "price": 1000,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/3-Tasten-Maus_Microsoft.jpg"
+    },
+    {
+        "id_product": 3,
+        "product_name": "Макбук",
+        "price": 99900,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16touch-space-select-201911_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1572654989311"
+    },
+    {
+        "id_product": 4,
+        "product_name": "Клавиатура",
+        "price": 3000,
+        "image": "https://shop.mts.ru/upload/iblock/b05/hx_product_keyboard_alloy_origins_core_us_1_zm_lg.jpg"
+    },
+    {
+        "id_product": 5,
+        "product_name": "Компьютер",
+        "price": 190000,
+        "image": "https://edelws.ru/upload/resize_cache/iblock/655/682_430_1/655b391959dee44efc3c93b5898ac9a1.png"
+    },
+    {
+        "id_product": 6,
+        "product_name": "Наушники",
+        "price": 5000,
+        "image": "https://avatars.mds.yandex.net/get-mpic/1862611/img_id2740507230736379514.jpeg/13hq"
+    },
+    {
+        "id_product": 7,
+        "product_name": "Коврик для мышки",
+        "price": 1600,
+        "image": "https://items.s1.citilink.ru/489526_v02_b.jpg"
+    },
+    {
+        "id_product": 8,
+        "product_name": "Монитор",
+        "price": 10100,
+        "image": "https://items.s1.citilink.ru/1199713_v01_b.jpg"
     }
 ]
